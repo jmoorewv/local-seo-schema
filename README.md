@@ -32,7 +32,7 @@ By embedding this schema directly into your website's source code, you provide s
 
     * Map URL (e.g., Google Maps link)
 
-    * Restaurant-specific properties (Serves Cuisine, Accepts Reservations)
+    * Restaurant-specific properties (Serves Cuisine, Accepts Reservations, Menu Link)
 
 * **JSON-LD Output:** Generates clean, valid JSON-LD schema, the preferred format for Google.
 
